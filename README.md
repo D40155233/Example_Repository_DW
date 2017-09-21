@@ -7,3 +7,10 @@ I also wonder how it will show if there are multiple lines of code changed.
 Does the tool have a file compare so that we can check all the changes made to a source file?
 
 This is a change
+
+Test Lines
+another test line
+test
+test
+test
+test
